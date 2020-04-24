@@ -20,6 +20,11 @@ brew bundle
 brew install zsh
 chsh -s /bin/zsh
 
+## install mac command line tools
+xcode-select --install
+
+## stop installing docs every time you install a gem
+echo "gem: --no-document" >> ~/.gemrc
 
 
 ### Brewfile example

@@ -16,6 +16,12 @@ mackup backup
 brew tap homebrew/bundle
 brew bundle
 
+### change default shell interpreter to zsh
+brew install zsh
+chsh -s /bin/zsh
+
+
+
 ### Brewfile example
 https://github.com/driesvints/dotfiles/blob/master/Brewfile
 

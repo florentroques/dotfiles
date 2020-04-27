@@ -53,4 +53,5 @@ https://kevinjalbert.com/synchronizing-my-dotfiles/
 ### Handle brew services
 brew cask install launchrocket
 
-
+### check whalebrew for docker
+https://github.com/whalebrew/whalebrew

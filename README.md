@@ -50,4 +50,7 @@ https://speakerdeck.com/anahkiasen/a-storm-homebrewin
 Mackup more in details  
 https://kevinjalbert.com/synchronizing-my-dotfiles/
 
+### Handle brew services
+brew cask install launchrocket
+
 

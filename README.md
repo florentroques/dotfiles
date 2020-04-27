@@ -1,4 +1,4 @@
-# dotfiles-mac
+# dotfiles (mac)
 
 Notes for future TODO
 

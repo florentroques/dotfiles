@@ -2,6 +2,8 @@
 
 Notes for future TODO
 
+## Use strap, an amazing script to bootstrap a minimal macOS development system.
+https://github.com/MikeMcQuaid/strap
 
 brew cask install google-chrome-dev
 brew cask install phpstorm-eap #free phpstorm early access
